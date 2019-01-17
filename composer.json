@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "~201903.0",
+    "spryker-feature/spryker-core": "^201902.0",
     "spryker/navigation": "^2.3.1",
     "spryker/navigation-collector": "^1.0.4",
     "spryker/navigation-gui": "^2.2.0",
