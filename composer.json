@@ -9,7 +9,7 @@
     "spryker-feature/spryker-core": "^201902.0",
     "spryker/navigation": "^2.3.1",
     "spryker/navigation-collector": "^1.0.4",
-    "spryker/navigation-gui": "^2.2.0",
+    "spryker/navigation-gui": "^2.2.1",
     "spryker/navigation-storage": "^1.2.0"
   }
 }
