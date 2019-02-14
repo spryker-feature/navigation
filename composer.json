@@ -10,7 +10,7 @@
     "spryker-feature/spryker-core": "^201902.0",
     "spryker/navigation": "^2.4.0",
     "spryker/navigation-gui": "^2.3.0",
-    "spryker/navigation-storage": "^1.2.0"
+    "spryker/navigation-storage": "^1.4.0"
   },
   "extra": {
     "branch-alias": {
