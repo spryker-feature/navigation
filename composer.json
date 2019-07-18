@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "^201907.0",
     "spryker/navigation": "^2.4.0",
     "spryker/navigation-gui": "^2.4.0",
     "spryker/navigation-storage": "^1.4.0"
