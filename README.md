@@ -7,3 +7,13 @@ Create complex navigation structure with cms pages, categories, and any other re
 ```
 composer require spryker-feature/navigation
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/spryker-core](https://github.com/spryker-feature/spryker-core)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [NavigationCollector ^1.0.4](https://github.com/spryker/navigation-collector) (Collector)
+- [NavigationsCategoryNodesResourceRelationship ^1.0.0](https://github.com/spryker/navigations-category-nodes-resource-relationship) (Glue)
+- [NavigationsRestApi ^2.0.0](https://github.com/spryker/navigations-rest-api) (Glue)
