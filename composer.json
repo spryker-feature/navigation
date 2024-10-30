@@ -11,7 +11,7 @@
         "spryker/content-navigation": "^1.0.0",
         "spryker/content-navigation-data-import": "^0.1.0",
         "spryker/content-navigation-gui": "^1.0.0",
-        "spryker/navigation": "^2.7.0",
+        "spryker/navigation": "^2.8.0",
         "spryker/navigation-gui": "^2.10.0",
         "spryker/navigation-storage": "^1.10.0"
     },
