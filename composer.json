@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/content-navigation-widget": "^1.4.0",
+        "spryker-shop/content-navigation-widget": "^1.5.0",
         "spryker/content-navigation": "^1.0.0",
         "spryker/content-navigation-data-import": "^0.1.0",
         "spryker/content-navigation-gui": "^1.0.0",
