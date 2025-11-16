@@ -12,12 +12,12 @@
         "spryker/content-navigation-data-import": "^0.1.0",
         "spryker/content-navigation-gui": "^1.0.0",
         "spryker/navigation": "^2.8.0",
-        "spryker/navigation-gui": "^2.10.0",
+        "spryker/navigation-gui": "^3.0.0",
         "spryker/navigation-storage": "^1.10.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     },
     "suggest": {
