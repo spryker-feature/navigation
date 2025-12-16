@@ -18,4 +18,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 ## Optional modules
 - [NavigationCollector ^1.0.4](https://github.com/spryker/navigation-collector) (Collector)
 - [NavigationsCategoryNodesResourceRelationship ^1.0.0](https://github.com/spryker/navigations-category-nodes-resource-relationship) (Legacy Glue)
-- [NavigationsRestApi ^2.1.0](https://github.com/spryker/navigations-rest-api) (Legacy Glue)
+- [NavigationsRestApi ^2.2.0](https://github.com/spryker/navigations-rest-api) (Legacy Glue)
