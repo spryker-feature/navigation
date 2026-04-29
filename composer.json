@@ -7,17 +7,17 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/content-navigation-widget": "^1.5.0",
+        "spryker-shop/content-navigation-widget": "^1.6.0",
         "spryker/content-navigation": "^1.0.0",
         "spryker/content-navigation-data-import": "^0.1.0",
-        "spryker/content-navigation-gui": "^1.1.0",
+        "spryker/content-navigation-gui": "^1.2.0",
         "spryker/navigation": "^2.9.0",
         "spryker/navigation-gui": "^3.0.0",
         "spryker/navigation-storage": "^1.11.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     },
     "suggest": {
